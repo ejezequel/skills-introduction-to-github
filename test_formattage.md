@@ -3,6 +3,9 @@ This file was built using https://docs.github.com/en/get-started/writing-on-gith
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -58,3 +61,4 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
